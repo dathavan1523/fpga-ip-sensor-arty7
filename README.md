@@ -45,9 +45,9 @@ All sensor communication is handled entirely in hardware, improving system deter
 ## 🛠 Development Environment
 
 - FPGA Board: Digilent Arty A7
-- Language: VHDL
+- Language: VHDL,C
 - Tools:
-  - Xilinx Vivado
+  - Xilinx Vivado, Vitis
   - Git & GitHub
   - draw.io (FSM diagrams)
   - LaTeX (technical report)
@@ -74,8 +74,6 @@ All sensor communication is handled entirely in hardware, improving system deter
 ## 📜 License
 
 This project is intended for educational use.  
-Feel free to study, modify, and reuse the code with proper attribution.
+Feel free to study, modify, and reuse the code without proper attribution.
 
-
-## 📁 Repository Structure
 
