@@ -1,5 +1,8 @@
 # fpga-ip-sensor-arty7
 FPGA sensor IP cores (BH1750 &amp; DHT11) implemented in VHDL on Arty A7-35 platform.
+
+[![DEMO ON YouTube](https://img.youtube.com/vi/fp8oZTBzxIA/0.jpg)](https://youtu.be/fp8oZTBzxIA)
+
 # FPGA IP Sensor System on Arty A7
 
 This repository contains an FPGA-based sensor interface system designed and implemented on the **Digilent Arty A7** development board.  
